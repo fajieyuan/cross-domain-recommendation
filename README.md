@@ -50,7 +50,7 @@ https://github.com/fajieyuan/recommendation_dataset_pretraining
 
 10 Cross Domain Recommendation Systems using Deep Learning
 
-11 Personalized Transfer of User Preferences for Cross-domain Recommendation
+11 Personalized Transfer of User Preferences for Cross-domain Recommendation WSDM2022
 
 12 Perceive your users in depth: Learning universal user representations from multiple e-commerce tasks Ailabab KDD2019
 
