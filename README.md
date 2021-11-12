@@ -25,7 +25,7 @@ Keywords: adaptive finetuning, pretraining, cold-start problem, cross-domain rec
 
 We have also released large-scale dataset (over 1 million user clicking behaviors) for performing transfer learning of user preference in recommendation field
 
-5 Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking ACL2021
+5 Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking ACL2021 https://arxiv.org/pdf/2107.08173.pdf Westlake
 
 Keywords: self-supervise learning, lifelong learning, pretraining, transfer learning, finetuning
 
