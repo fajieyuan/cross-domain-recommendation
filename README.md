@@ -53,3 +53,13 @@ https://github.com/fajieyuan/recommendation_dataset_pretraining
 9 UPRec: User-Aware Pre-training for Recommender Systems AAAI2021
 
 10 Cross Domain Recommendation Systems using Deep Learning
+
+11 Personalized Transfer of User Preferences for Cross-domain Recommendation
+
+12 Perceive your users in depth: Learning universal user representations from multiple e-commerce tasks Ailabab KDD2019
+
+13 Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation
+
+14 Self-supervised Graph Learning for Recommendation
+
+15 Curriculum Pre-Training Heterogeneous Subgraph Transformer for Top-N Recommendation
