@@ -1,4 +1,4 @@
-# cross-domain-recommendation
+# cross-domain-recommendation with deep learning
 cross-domain recommendation，transfer learning，pre-training，self-supervise learning, contrastive learning papers and a large-scale dataset
 
 Pre-training and Transfer learning papers for recommendation
