@@ -1,9 +1,5 @@
 # cross-domain-recommendation papers with deep learning
-cross-domain recommendation，transfer learning，pre-training，self-supervise learning, contrastive learning papers and a large-scale dataset
-
-Pre-training and Transfer learning papers for recommendation
-
-Several research papers that apply pre-training, transfer learning and representation learning for cross-domain recommendation and user profile prediction:
+cross-domain recommendation，transfer learning，pre-training，self-supervise learning, contrastive learning，cold-start recommendation，user profile prediction.
 
 ## Ours
 
