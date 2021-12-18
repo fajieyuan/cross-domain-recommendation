@@ -5,11 +5,15 @@ cross-domain recommendation，transfer learning，pre-training，self-supervise 
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 （Tencen+Google）
 
+Github：https://github.com/fajieyuan/SIGIR2020_peterrec
+
 Keywords: self-supervise learning, user sequential behaviors, pretraining, transfer learning, user representation, user profile prediction, cold-start problem
 
 2 One Person, One Model, One World: Learning Continual User Representation without Forgetting SIGIR2021 https://arxiv.org/abs/2009.13724 （Westlake+Tencent+Google）
 
 Keywords: self-supervise learning, lifelong learning, pretraining, transfer learning, finetuning, user representation, user profile prediction, cold-start problem
+
+Github：https://github.com/fajieyuan/SIGIR2021_Conure
 
 3 Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training ICDM2021 https://fajieyuan.github.io/papers/ICDM2021.pdf （Tencent）
 
@@ -19,11 +23,13 @@ Keywords: contrative learnng, self-supervise learning, transfer learning, pretra
 
 Keywords: adaptive finetuning, pretraining, cold-start problem, cross-domain recommendation
 
-We have also released large-scale dataset (over 1 million user clicking behaviors) for performing transfer learning of user preference in recommendation field
 
 5 Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking ACL2021 https://arxiv.org/pdf/2107.08173.pdf Westlake
 
 Keywords: self-supervise learning, lifelong learning, pretraining, transfer learning, finetuning
+
+
+We have also released large-scale dataset (over 1 million user clicking behaviors) for performing transfer learning of user preference in recommendation field
 
 ## a large-scale pretraining dataset for cross-domain recommendation 
 https://github.com/fajieyuan/recommendation_dataset_pretraining
