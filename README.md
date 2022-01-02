@@ -3,7 +3,7 @@ cross-domain recommendation，transfer learning，pre-training，self-supervise 
 
 ## Ours
 
-1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 （Tencen+Google）
+1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 （Tencent+Google）
 
 Github：https://github.com/fajieyuan/SIGIR2020_peterrec
 
