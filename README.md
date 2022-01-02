@@ -19,7 +19,7 @@ Github：https://github.com/fajieyuan/SIGIR2021_Conure
 
 Keywords: contrative learnng, self-supervise learning, transfer learning, pretraining, finetuning, user representation, user profile prediction, cold-start problem
 
-4 User-specific Adaptive Fine-tuning for Cross-domain Recommendations TKDE2021 https://arxiv.org/pdf/2102.10989.pdf （Tencent）
+4 User-specific Adaptive Fine-tuning for Cross-domain Recommendations TKDE2021 https://arxiv.org/pdf/2106.07864.pdf（Tencent）
 
 Keywords: adaptive finetuning, pretraining, cold-start problem, cross-domain recommendation
 
