@@ -24,9 +24,9 @@ Keywords: contrative learnng, self-supervise learning, transfer learning, pretra
 Keywords: adaptive finetuning, pretraining, cold-start problem, cross-domain recommendation
 
 
-5 Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking ACL2021 https://arxiv.org/pdf/2107.08173.pdf Westlake
+5 TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback (Westlake)  ID-agnostic
 
-Keywords: self-supervise learning, lifelong learning, pretraining, transfer learning, finetuning
+Keywords: tranfer learning, pre-training, mixture-of-modality, content-based recommendation, general-purpose recommender system
 
 
 We have also released large-scale dataset (over 1 million user clicking behaviors) for performing transfer learning of user preference in recommendation field
@@ -65,3 +65,5 @@ https://github.com/fajieyuan/recommendation_dataset_pretraining
 14 Self-supervised Graph Learning for Recommendation
 
 15 Curriculum Pre-Training Heterogeneous Subgraph Transformer for Top-N Recommendation
+ 
+16 Towards Universal Sequence Representation Learning for Recommender Systems
