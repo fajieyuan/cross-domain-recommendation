@@ -1,5 +1,7 @@
-# cross-domain recommendation papers with deep learning
+# cross-domain recommendation papers with deep learning 
 cross-domain recommendation，transfer learning，pre-training，self-supervise learning, contrastive learning，cold-start recommendation，user profile prediction.
+
+Welcome to open an issue or make a pull request!
 
 ## Ours
 
