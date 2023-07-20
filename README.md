@@ -36,6 +36,8 @@ We have also released large-scale dataset (over 1 million user clicking behavior
 ## a large-scale pretraining dataset for cross-domain recommendation 
 https://github.com/fajieyuan/recommendation_dataset_pretraining
 
+https://openreview.net/forum?id=PfuW84q25y9
+
 
 ## Other affiliations
 1 Knowledge Transfer via Pre-training for Recommendation Tsinghua University 2021 frontiers
