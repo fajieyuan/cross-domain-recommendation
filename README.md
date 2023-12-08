@@ -3,6 +3,8 @@ cross-domain recommendation，transfer learning，pre-training，self-supervise 
 
 Welcome to open an issue or make a pull request!
 
+## https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
+
 ## Ours
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 （Tencent+Google）
