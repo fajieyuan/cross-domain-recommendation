@@ -5,6 +5,18 @@ Welcome to open an issue or make a pull request!
 
 ## https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
+## a large-scale pretraining dataset for cross-domain recommendation 
+
+
+Tenrec (NeurIPS2022)： https://openreview.net/forum?id=PfuW84q25y9
+
+NineRec (TPAMI2024): https://arxiv.org/pdf/2309.07705.pdf
+
+PeterRec：https://github.com/fajieyuan/recommendation_dataset_pretraining
+
+MicroLens (Invited Talk by Google DeepMind): https://arxiv.org/pdf/2309.15379.pdf
+
+
 ## Ours
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 （Tencent+Google）
@@ -35,15 +47,6 @@ Keywords: tranfer learning, pre-training, mixture-of-modality, content-based rec
 
 We have also released large-scale dataset (over 1 million user clicking behaviors) for performing transfer learning of user preference in recommendation field
 
-## a large-scale pretraining dataset for cross-domain recommendation 
-
-
-Tenrec： https://openreview.net/forum?id=PfuW84q25y9
-
-
-NineRec：https://arxiv.org/pdf/2309.07705.pdf
-
-PeterRec：https://github.com/fajieyuan/recommendation_dataset_pretraining
 
 
 ## Other affiliations
