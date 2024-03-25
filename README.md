@@ -5,8 +5,7 @@ Welcome to open an issue or make a pull request!
 
 ## https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
-## large-scale pre-training dataset for Cross-domain or Multimodal recommendation 
-
+## 🤗 **Resources**:  large-scale pre-training dataset for Cross-domain or Multimodal recommendation 
 
 Tenrec (NeurIPS2022)： https://openreview.net/forum?id=PfuW84q25y9
 
